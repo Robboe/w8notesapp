@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="NotesApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NotesApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF9ADAFF">
+        <ListView x:ConnectionId='1' x:Name="notesList" HorizontalAlignment="Left" Height="594" Margin="296,142,0,0" VerticalAlignment="Top" Width="1039"                                                Foreground="#FFFD8585" Background="Black"/>
+        <Button x:ConnectionId='2' Content="Button" HorizontalAlignment="Left" Margin="1106,37,0,0" VerticalAlignment="Top" Height="54" Width="135" Background="#FFEA7D7D"                       />
+        <TextBox x:Name="addItemTextBox" HorizontalAlignment="Left" Margin="343,37,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Height="54" Width="718" Background="#FFF08787" AcceptsReturn="True"/>
+
+    </Grid>
+</Page>
+

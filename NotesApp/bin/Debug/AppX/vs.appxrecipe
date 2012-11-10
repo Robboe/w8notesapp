@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SAITHISXPS</Machine>
+    <WindowsUser>blacky</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>1EAE9EB5BF44524091F7D83D933AE38A99598D8772F2E148F6752C47978AA238</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4c7a9c4c-b45c-4ea1-969f-91d4663b9886_1.0.0.0_neutral__9x3f9bb8xqmbm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4c7a9c4c-b45c-4ea1-969f-91d4663b9886_9x3f9bb8xqmbm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4c7a9c4c-b45c-4ea1-969f-91d4663b9886</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=blacky</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Uni\NotesApp\NotesApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-08T19:04:28.617</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Uni\NotesApp\NotesApp\bin\Debug\NotesApp.exe">
+      <PackagePath>NotesApp.exe</PackagePath>
+      <Modified>2012-11-10T08:47:53.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Uni\NotesApp\NotesApp\bin\Debug\NotesApp.pdb">
+      <PackagePath>NotesApp.pdb</PackagePath>
+      <Modified>2012-11-10T08:47:52.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Uni\NotesApp\NotesApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T22:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Uni\NotesApp\NotesApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T22:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Uni\NotesApp\NotesApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T22:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Uni\NotesApp\NotesApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T22:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Uni\NotesApp\NotesApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-08T18:53:02.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Uni\NotesApp\NotesApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T19:24:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Uni\NotesApp\NotesApp\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-10T08:47:51.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Uni\NotesApp\NotesApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-08T19:04:28.376</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
